@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Tejeswara Reddy, Pogula
-- 👨‍💼 I'm currently working at [Cruise LLC](https://www.getcruise.com/)
+- 🏢 My previous employer is [Cruise](https://www.getcruise.com/).
+- 👨‍💼 I'm open to work and looking for new opportunities. 
+- 📫 Please reach me out to me at tejeswara.pogula@gmail.com or on [Linkedin](https://www.linkedin.com/in/tejeswara-reddy-pogula/)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
