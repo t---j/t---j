@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Tejeswara Reddy, Pogula
-- 🏢 My previous employer is [Cruise](https://www.getcruise.com/).
+- 🏢 My Employers
+  - Current: [Verkada](https://www.verkada.com/access-control/access-station/).
+  - Previous: [Cruise](https://www.getcruise.com/).
 - 👨‍💼 I'm open to work and looking for new opportunities. 
 - 📫 Please reach me out to me at tejeswara.pogula@gmail.com or on [Linkedin](https://www.linkedin.com/in/tejeswara-reddy-pogula/)
 - ®️ [Patents](https://patents.google.com/?inventor=Tejeswara+Reddy+Pogula&oq=inventor:(Tejeswara+Reddy+Pogula))
